@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a77ebf56-8192-4ab1-b5eb-ef01646357ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/endesHFC/Refactorizacion/Medicamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/endesHFC/Refactorizacion/MedicamentoGenerico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/endesHFC/Refactorizacion/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/endesHFC/Refactorizacion/TipoMedicamento.java" afterDir="false" />
-    </list>
+    <list default="true" id="a77ebf56-8192-4ab1-b5eb-ef01646357ea" name="Changes" comment="todo hecho" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,12 +92,25 @@
       <workItem from="1714033022766" duration="63000" />
       <workItem from="1714033098392" duration="44000" />
       <workItem from="1714033148869" duration="16000" />
-      <workItem from="1714033242413" duration="1048000" />
+      <workItem from="1714033242413" duration="1502000" />
     </task>
+    <task id="LOCAL-00001" summary="todo hecho">
+      <option name="closed" value="true" />
+      <created>1714034366405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714034366405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="todo hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo hecho" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -117,6 +119,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/endesHFC/ArraysTest/ArraysTest.java</url>
           <line>25</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/endesHFC/Refactorizacion/MedicamentoEspecializado.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
