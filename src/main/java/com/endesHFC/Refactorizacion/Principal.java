@@ -16,6 +16,8 @@ class Principal {
         Farmacia farmacia = new Farmacia();
         Random random = new Random();
 
+
+
         // Agregar medicamentos al inventario de la farmacia
         MedicamentoGenerico paracetamol = new MedicamentoGenerico("Paracetamol", 10.0);
         farmacia.agregarMedicamento(paracetamol, 100);
